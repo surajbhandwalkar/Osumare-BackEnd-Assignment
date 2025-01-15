@@ -1,9 +1,12 @@
 chek the following assignment in postman how to work CRUD opration on url
+
 1:--
 method:GET
 http://localhost:3000/tasks //this url is get the in blank 
 output is -->
 []
+
+
 2:--
 Method: POST
 URL: http://localhost:3000/tasks
